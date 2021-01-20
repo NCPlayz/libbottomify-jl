@@ -1,0 +1,7 @@
+name = "libbottomify"
+uuid = "bc9c7173-5bb7-4821-8f42-617a465aaeff"
+authors = ["Nadir <chowdhurynadir0@outlook.com>"]
+version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
